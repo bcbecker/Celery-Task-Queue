@@ -1,5 +1,5 @@
 # Celery-Task-Queue
-Task queue using celery and Redis as the broker
+Task queue using celery and Redis as the broker. This simple example was built with celery to compare/contrast to rq, and explore the functionalities of both (see Redis-Task-Queue for rq), though this barely scratches the surface!
 
 ## Setup
 Ensure python 3.9 is installed.
